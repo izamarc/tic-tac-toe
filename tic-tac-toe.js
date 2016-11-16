@@ -11,3 +11,4 @@ function topLeft(){
   var  canvas = document.getElementById("game-board")
   canvas.appendChild(myShape)
 }
+ 
