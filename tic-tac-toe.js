@@ -7,8 +7,7 @@ function topLeft(){
   myShape.setAttribute("cx", 45)
   myShape.setAttribute("cy", 45)
   myShape.setAttribute("r", 30)
-  myShape.setAttribute("fill", "white")
+  myShape.setAttribute("fill", "purple")
   var  canvas = document.getElementById("game-board")
   canvas.appendChild(myShape)
 }
- 
